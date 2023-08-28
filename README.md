@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuskwing
-- 👀 I’m interested in coding java script
-- 🌱 I’m currently learning java
+- 👀 I’m interested in coding git and python
+- 🌱 I’m currently learning git and python
 - 💞️ I’m looking to collaborate on  nothing
 - 📫 How to reach me dont
 
